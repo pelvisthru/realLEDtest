@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\Debug\realLEDtest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>realLEDtest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>realLEDtest.map</FILE>
+  <FILE>realLEDtest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <outer><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>62</LINE></outer>
+  <inner_down><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>64</LINE></inner_down>
+  <delay><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>238</LINE></delay>
+  <inner_down_2><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>73</LINE></inner_down_2>
+  <inner_up><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>82</LINE></inner_up>
+  <inner_up_2><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>91</LINE></inner_up_2>
+  <end><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>103</LINE></end>
+  <delayouter><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>245</LINE></delayouter>
+  <delayinner><FILE>C:\Users\bwen6\Documents\Atmel Studio\7.0\realLEDtest\realLEDtest\main.asm</FILE><LINE>247</LINE></delayinner>
+ </LABELS>
+</ASSEMBLER_INFO>
